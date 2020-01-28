@@ -1,6 +1,6 @@
 # ETF-of-Dowjones-Index
 
-[img](Error.png)
+<img src="error.png" width="800px">
 
 
 
