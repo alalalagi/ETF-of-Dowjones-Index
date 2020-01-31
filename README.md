@@ -1,5 +1,5 @@
 # ETF-of-Dowjones-Index
-使用道瓊工業指數2015/3/18~2018/1/5的日指數做出一個ETF
+對道瓊工業指數(2015/3/18~2018/1/5)的日收盤指數，以其成分股做出一個ETF
 
 ### Error
 <div style="text-align: center">
